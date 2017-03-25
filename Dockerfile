@@ -1,6 +1,6 @@
-FROM elixir:1.3
+FROM elixir:1.4
 
-ENV PHOENIX_VERSION 1.2.0
+ENV PHOENIX_VERSION 1.2.3
 
 RUN apt-get update
 RUN apt-get install -y erlang-dev erlang-parsetools
