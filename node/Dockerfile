@@ -1,4 +1,4 @@
-FROM podium/phoenix:1.2
+FROM podium/phoenix:1.3
 
 # Yarn
 RUN apt-key adv --keyserver pgp.mit.edu --recv D101F7899D41F3C3
