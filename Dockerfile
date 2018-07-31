@@ -1,4 +1,4 @@
-FROM elixir:1.5
+FROM elixir:1.6
 
 ENV PHOENIX_VERSION 1.3.0
 
